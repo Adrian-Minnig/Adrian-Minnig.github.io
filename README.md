@@ -1,6 +1,6 @@
 # Adrian-Minnig.github.io
 
-[PHS Course Submission](https://Adrian-Minnig.github.io/blob/PHS-Course)
+[PHS Course Submission](Link zur anderen Seite)
 
 
 The following HTML file is my submission for the Course "Basic Statistics and Projects in R":
