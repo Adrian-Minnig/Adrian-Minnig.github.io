@@ -2,4 +2,4 @@
 
 The following HTML file is my submission for the Course "Basic Statistics and Projects in R":
 
-![Abliegedauer]
+![Abliegedauer](/Adrian-Minnig.github.io/assets/css/Abliegedauer.png)
