@@ -1,4 +1,4 @@
 # Adrian-Minnig.github.io
-My Repository
 
-This is some general information.
+The following HTML file is my submission for the Course "Basic Statistics and Projects in R":
+
