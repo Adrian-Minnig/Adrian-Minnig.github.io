@@ -4,5 +4,5 @@
 
 [Contact](https://adrian-minnig.github.io/contact)
 
-[Current_Position](http://www.vphi.ch/ueber_uns/team/minnig_adrian/index_ger.html)
+[Current Position](http://www.vphi.ch/ueber_uns/team/minnig_adrian/index_ger.html)
 
